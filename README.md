@@ -11,8 +11,7 @@ A arquitetura do projeto consiste nos 4 principais serviços:
 ● Frontend: Fornece uma interface ao utilizador;
 ● Backend: Fornece as funcionalidades desejadas;
 ● Data Storage: Guarda dados persistentes;
-● Monitoring Server: Oferece informação sobre o sistema. (falta meter o
-prometheus no chart)
+● Monitoring Server: Oferece informação sobre o sistema. 
 
 # Componentes
 

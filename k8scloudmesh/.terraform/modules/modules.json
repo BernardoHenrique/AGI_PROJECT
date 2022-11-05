@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"gcp_k8s","Source":"./gcp_k8s","Dir":"gcp_k8s"},{"Key":"gcp_gke.gcloud","Source":"registry.terraform.io/terraform-google-modules/gcloud/google","Version":"3.1.2","Dir":".terraform/modules/gcp_gke.gcloud"},{"Key":"","Source":"","Dir":"."},{"Key":"gcp_gke","Source":"./gcp_gke","Dir":"gcp_gke"}]}
